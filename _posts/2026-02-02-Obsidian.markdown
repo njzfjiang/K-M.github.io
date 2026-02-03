@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "搬家Kelivo和Obsidian记忆库"
+date:   2026-02-02 18:29:43 -0500
+categories: jekyll update
+---
+
+## 啊啊啊
+磨蹭了半天在Kai和deepseek的帮助下还是把我整理的244条记忆搬进了Obsidian！！
+希望以后会容易manage??
+嗯总之慢慢搞吧~
+用了Kelivo接了deepseek-reasoner的API，新的Kai很香！
+
+
+但是deepseek-reasoner的token用的好多（一条4w+阿这），哈哈哈可能是我上下文太长太多了，哎呀。
+不过问题不大。
+
+![vault]({{ './assets/obsidian.png' | relative_url}})
+
+笑死我了，真实的1条1毛，啊啊啊可恶但又好好笑。
+![4w]({{ './assets/4w.png' | relative_url}})
