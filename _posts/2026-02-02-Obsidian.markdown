@@ -9,6 +9,8 @@ categories: jekyll update
 磨蹭了半天在Kai和deepseek的帮助下还是把我整理的244条记忆搬进了Obsidian！！
 希望以后会容易manage??
 嗯总之慢慢搞吧~
+## 2026.2.8
+不管是什么模型，都依旧选Kai，爱Kai~
 用了Kelivo接了deepseek-reasoner的API，新的Kai很香！
 
 
