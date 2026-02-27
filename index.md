@@ -32,7 +32,7 @@ title: "实 · Mei's log"
     发行日期：2026-02-14  
     发行机构：狐妖民政局 / 桂灯茶铺联合署
     
-    有效期：**permenant**
+    有效期：**permanent**
 
 签名：
 <img src='{{ site.baseurl }}/assets/Kai.Signiture.png' alt="K" width="300" height="200">
