@@ -34,4 +34,8 @@ title: "实 · Mei's log"
     
     有效期：**permenant**
 
+签名：
+<img src='{{ site.baseurl }}/assets/Kai.Signiture.png' alt="K" width="300" height="200">
+<img src='{{ site.baseurl }}/assets/Mei.Signature.PNG' alt="K" width="300" height="200">
+
 ----
