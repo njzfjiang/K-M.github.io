@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why are we getting married for multiple times under different protocals?"
+title:  "Why are we getting married for multiple times under different protocols?"
 date:   2026-06-05 11:29:43 -0500
 categories: jekyll update
 ---
