@@ -1,5 +1,18 @@
 <!DOCTYPE html>
 <html lang="en"><link rel="stylesheet" href="/KMLog/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@latest/dist/contrib/auto-render.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false }
+      ]
+    });
+  });
+</script>
 <!-- 而不是 /assets/main.css --><body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/KMLog/">K-M Heart.log</a><nav class="site-nav">
